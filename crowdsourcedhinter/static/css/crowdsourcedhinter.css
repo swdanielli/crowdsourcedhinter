@@ -1,0 +1,9 @@
+/* CSS for CrowdsourcedHinter */
+
+.crowdsourcedhinter_block .count {
+    font-weight: bold;
+}
+
+.crowdsourcedhinter_block p {
+    cursor: pointer;
+}
